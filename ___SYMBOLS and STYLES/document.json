@@ -37,7 +37,8 @@
     "version": 118
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Foundation"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {
